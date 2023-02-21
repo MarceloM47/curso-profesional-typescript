@@ -7,6 +7,3 @@ var Users;
 })(Users || (Users = {}));
 var myUser = Users.AdminUser;
 console.log(myUser);
-if (myUser === Users.AdminUser) {
-}
-console.log(myUser);
