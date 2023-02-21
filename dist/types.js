@@ -4,8 +4,10 @@ var age = 16;
 var isSenior = false;
 var person = {};
 var fruits = ["manzana", "pera"];
+//Puede cambiar su tipo
 var response = "Holaa";
 response = 20;
+//No retorna nada
 function saludar() {
     console.log("Hola");
 }
